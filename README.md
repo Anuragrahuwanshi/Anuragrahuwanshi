@@ -61,15 +61,19 @@ A campus-management project in development, planned around student and faculty m
 
 ## 🤝 Connect With Me
 
+
+<h2 align="center">🤝 Let's Connect</h2>
+
 <p align="center">
   <a href="https://github.com/Anuragrahuwanshi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
----
+<p align="center">
+  💡 Open to learning, collaboration, and building useful projects.
+</p>
 
-<div align="center">
 
 ### ✨ Learn. Build. Improve. Repeat. ✨
 
