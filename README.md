@@ -77,5 +77,18 @@ A campus-management project in development, planned around student and faculty m
 ### ✨ Learn. Build. Improve. Repeat. ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
+## 📚 Currently Learning
+
+- Java and Data Structures & Algorithms
+- SQL and MySQL
+- Spring Boot and backend development
+- Building practical projects with web technologies
+
+## 🎯 Current Goals
+
+- Solve DSA problems consistently
+- Improve Java programming skills
+- Build and document real-world projects
+- Learn Git and GitHub workflows
 
 </div>
