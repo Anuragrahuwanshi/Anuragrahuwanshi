@@ -90,5 +90,7 @@ A campus-management project in development, planned around student and faculty m
 - Improve Java programming skills
 - Build and document real-world projects
 - Learn Git and GitHub workflows
+💡 My Development Philosophy
 
+I believe in consistent learning, writing clean code, and building projects that solve real-world problems.
 </div>
