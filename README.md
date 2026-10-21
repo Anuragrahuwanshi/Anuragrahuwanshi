@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ANURAG%20RAGHUWANSHI&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20in%20Progress&descSize=14&descAlignY=55" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Developer+in+Progress;Learning+Data+Structures+%26+Algorithms;Building+Real-World+Projects;Exploring+Backend+Development" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Developer+in+Progress;Learning+Data+Structures+%26+Algorithms;Building+Real-World+Projects;Exploring+Backend+Development " alt="Animated typing introduction" />
 
 </div>
 
