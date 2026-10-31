@@ -41,22 +41,43 @@ A campus-management project in development, planned around student and faculty m
 
 **Planned stack:** Java · Spring Boot · MySQL · HTML · CSS · JavaScript
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuragrahuwanshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragrahuwanshi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuragrahuwanshi&show_icons=true&theme=tokyonight&hide_border=true"
+       height="165" alt="GitHub Statistics">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragrahuwanshi&layout=compact&theme=tokyonight&hide_border=true"
+       height="165" alt="Most Used Languages">
 </p>
 
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anuragrahuwanshi&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Anuragrahuwanshi&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Anuragrahuwanshi/Anuragrahuwanshi/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
 </p>
+
 
 ## 🤝 Connect With Me
 
