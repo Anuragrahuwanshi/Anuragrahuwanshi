@@ -20,11 +20,9 @@
 🌾 Direct Farmer-to-Consumer Digital Marketplace
 A hackathon project designed to connect farmers directly with consumers, improve price transparency, and reduce dependence on intermediaries.
 Focus: Digital marketplace · Farmer empowerment · Transparent pricing
-Explore Hack-project-2026
 
 💻 Data Structures & Algorithms
 A place to practise coding problems, strengthen algorithmic thinking, and track my learning progress.
-Explore my DSA repository
 
 🏫 Smart Campus Management System
 A campus-management project in development, planned around student and faculty management, attendance, marks, timetables, and notices.
@@ -33,27 +31,27 @@ Planned stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript
 📊 GitHub Statistics
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Anuragrahuwanshi&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Anuragrahuwanshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="165"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragrahuwanshi&theme=tokyonight&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragrahuwanshi&theme=tokyonight&hide_border=true&layout=compact"
     height="165"
     alt="Most Used Languages"
   />
 </p>
 
-🔥 GitHub Streak
+🔥 GitHub Streak (Current & Longest)
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragrahuwanshi&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragrahuwanshi&theme=tokyonight&hide_border=true"
     width="70%"
     alt="GitHub Streak"
   />
 </p>
 
-🐍 Contribution Animation
+🐍 Contribution Snake Animation
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
