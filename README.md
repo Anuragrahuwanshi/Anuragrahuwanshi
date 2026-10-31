@@ -57,12 +57,11 @@ A campus-management project in development, planned around student and faculty m
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Anuragrahuwanshi&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Anuragrahuwanshi&theme=tokyonight&timezone=Asia%2FKolkata"
     width="70%"
     alt="GitHub Streak"
   />
 </p>
-
 
 ## 🐍 Contribution Animation
 
