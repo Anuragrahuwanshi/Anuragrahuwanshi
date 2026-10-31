@@ -42,7 +42,7 @@ Planned stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript
   />
 </p>
 
-🔥 GitHub Streak (Current & Longest)
+🔥 GitHub Streak
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragrahuwanshi&theme=tokyonight&hide_border=true"
@@ -51,7 +51,7 @@ Planned stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript
   />
 </p>
 
-🐍 Contribution Snake Animation
+🐍 Contribution Animation
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
